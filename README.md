@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://github.com/leepule">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leepule&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leepule&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
-  <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leepule&theme=buefy-dark&hide_border=true&background=1a1b27"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=leepule&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
+  <a href="https://github.com/leepule">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leepule&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leepule&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8"/> 
+    <br/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leepule&hide_border=true&background=1a1b27"/>
   </a>
 </p>
